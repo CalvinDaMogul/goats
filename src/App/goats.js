@@ -1,0 +1,55 @@
+const goats = [
+  {
+    id: 'goat1',
+    name: 'billy',
+    disposition: 'rude',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+    fullness: 67,
+    favPose: 'downward facing dog',
+    isFainting: 'true',
+    color: 'brown',
+  },
+
+  {
+    id: 'goat2',
+    name: 'bubba',
+    disposition: 'rude',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+    fullness: 67,
+    favPose: 'downward facing dog',
+    isFainting: 'true',
+    color: 'brown',
+  },
+  {
+    id: 'goat3',
+    name: 'blue',
+    disposition: 'rude',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+    fullness: 67,
+    favPose: 'downward facing dog',
+    isFainting: 'true',
+    color: 'brown',
+  },
+  {
+    id: 'goat4',
+    name: 'beans',
+    disposition: 'rude',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+    fullness: 67,
+    favPose: 'downward facing dog',
+    isFainting: 'true',
+    color: 'brown',
+  },
+  {
+    id: 'goat5',
+    name: 'bobby',
+    disposition: 'rude',
+    imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg',
+    fullness: 67,
+    favPose: 'downward facing dog',
+    isFainting: 'true',
+    color: 'brown',
+  },
+];
+
+export default goats;
